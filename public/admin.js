@@ -1,0 +1,1 @@
+/**Page ne sera visible à l'utilisateur qu'après s'être connecté. Il affichera tous les articles du blog . */
